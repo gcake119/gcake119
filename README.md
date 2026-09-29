@@ -63,3 +63,20 @@ Codex 是目前主要的 coding agent。我的工作重點包含釐清需求、�
 
 - [Technical Blog](https://gcake119.github.io/gcake-dev/)
 - [Podcast｜喂喂你還好不好](https://open.firstory.fm/user/wwhowbuhow/platforms)
+
+## Contribution Chicken 🐥
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gcake119/gcake119/output/chicken-contribution-grid-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gcake119/gcake119/output/chicken-contribution-grid.svg"
+  />
+  <img
+    alt="小雞吃掉 GitHub contribution grid 的動畫"
+    src="https://raw.githubusercontent.com/gcake119/gcake119/output/chicken-contribution-grid.svg"
+  />
+</picture>
