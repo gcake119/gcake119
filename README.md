@@ -64,7 +64,7 @@ Codex 是目前主要的 coding agent。我的工作重點包含釐清需求、�
 - [Technical Blog](https://gcake119.github.io/gcake-dev/)
 - [Podcast｜喂喂你還好不好](https://open.firstory.fm/user/wwhowbuhow/platforms)
 
-## Contribution Chicken 🐥
+## 小雞吃點點 🐥
 
 <picture>
   <source
