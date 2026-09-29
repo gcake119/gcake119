@@ -1,12 +1,11 @@
-# Hi, I'm gcake119
+# 嗨嗨，我是雞蛋糕 👋
+# Hi, I'm Gcake
 
-**Independent Full-stack Developer**
+獨立全端開發者，主要使用 Codex 協作開發產品、系統與互動式學習工具。  
+Independent full-stack developer building products, systems, and interactive learning tools with Codex.
 
-I build workflow-driven products and interactive learning tools with Codex-assisted development.
-
-我主要從需求、人的工作流程、產品與系統層級理解問題，再透過規格、測試、AI review 與人工驗收持續確認系統行為。
-
-目前持續學習 System Design、Security Engineering、software verification，以及更深入的 code-level understanding。
+我習慣先理解人的工作流程，再往下拆需求、產品流程、系統責任與驗證方式。  
+I usually start by understanding how people actually work, then move into requirements, product flows, system responsibilities, and verification.
 
 ## How I work
 
