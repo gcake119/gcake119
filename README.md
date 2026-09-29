@@ -65,4 +65,4 @@ Codex 是目前主要的 coding agent。我的工作重點包含釐清需求、�
 
 - [Technical Blog](https://gcake119.github.io/gcake-dev/)
 - [2026 iThome Ironman](https://gcake119.github.io/ithome-2026/)
-- Podcast｜喂喂你還好不好
+- [Podcast｜喂喂你還好不好](https://open.firstory.fm/user/wwhowbuhow/platforms)
