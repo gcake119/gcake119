@@ -49,7 +49,6 @@ Codex 是目前主要的 coding agent。我的工作重點包含釐清需求、�
 ### Writing & Publishing
 
 - [gcake-dev](https://gcake119.github.io/gcake-dev/) — 長期技術部落格，記錄 AI 協作開發、產品、System Design 與學習過程。
-- [2026 iThome Ironman](https://gcake119.github.io/ithome-2026/) — **《AI 都會寫程式了，我還要學什麼？——從「做得出來」到學會開發的 30 天》**
 - [ithome-2026](https://github.com/gcake119/ithome-2026) — 30 天文章網站、發布流程與可重用模板。
 
 ## Currently Exploring
